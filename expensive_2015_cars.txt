@@ -1,0 +1,1 @@
+Car{id=1, make='Toyota', model='Camry', year=2015, color='Black', price=15000.0, regNumber='XYZ123'}
