@@ -4,9 +4,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Starting the application...");
-        System.out.println("Current working directory: " + System.getProperty("user.dir"));
-
         CarManager manager = new CarManager();
         try {
             manager.saveCarsByBrand("Toyota", "toyota_cars.txt");
