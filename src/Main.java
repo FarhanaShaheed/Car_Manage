@@ -16,6 +16,6 @@ public class Main {
             System.out.println("An error occurred:");
             e.printStackTrace();
         }
-        System.out.println("Operations completed..");
+        System.out.println("Operations completed.");
     }
 }
