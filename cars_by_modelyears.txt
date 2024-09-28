@@ -1,1 +1,1 @@
-Car{id=3, make='Honda', model='Civic', year=2010, color='Grey', price=10000.0, regNumber='DEF789'}
+Car{id=3, make='Mazda', model='CX-5', year=2010, color='Grey', price=10000.0, regNumber='DEG489'}

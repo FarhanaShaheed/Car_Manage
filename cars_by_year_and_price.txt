@@ -1,1 +1,1 @@
-Car{id=1, make='Toyota', model='Camry', year=2015, color='Black', price=15000.0, regNumber='XYZ123'}
+Car{id=2, make='Renault', model='Austral', year=2012, color='Red', price=16000.0, regNumber='TBC456'}

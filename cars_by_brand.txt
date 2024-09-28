@@ -1,2 +1,2 @@
-Car{id=1, make='Toyota', model='Camry', year=2015, color='Black', price=15000.0, regNumber='XYZ123'}
-Car{id=2, make='Toyota', model='Corolla', year=2012, color='White', price=12000.0, regNumber='ABC456'}
+Car{id=5, make='BMW', model='Mini', year=2012, color='White', price=12000.0, regNumber='ABC456'}
+Car{id=6, make='BMW', model='Rolls_Royce', year=2010, color='Grey', price=10000.0, regNumber='DEF789'}
